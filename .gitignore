@@ -29,5 +29,6 @@ sphinx_rtd_theme/static/js/html5shiv-printshiv.min.js
 .envrc
 # ali: for development:
 venv/
+docs/
 # Used for dockerized builds
 .container_id
