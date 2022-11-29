@@ -2,7 +2,7 @@
 Readme
 **************************
 this is a rtl theme for Sphinx_.
-i use `Read the Docs`_ as a base. and change it .
+i use `Read the Docs`_ as a base. 
 
 .. _Sphinx: http://www.sphinx-doc.org
 .. _Read the Docs: http://www.readthedocs.org
