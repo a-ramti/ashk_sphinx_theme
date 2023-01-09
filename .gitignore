@@ -30,5 +30,6 @@ sphinx_rtd_theme/static/js/html5shiv-printshiv.min.js
 # ali: for development:
 venv/
 docs/
+docs
 # Used for dockerized builds
 .container_id
